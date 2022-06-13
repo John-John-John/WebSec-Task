@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSec-Task", "WebSec-Task\WebSec-Task.csproj", "{BBF22623-018A-4EBD-9796-B7C792CB3221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF22623-018A-4EBD-9796-B7C792CB3221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF22623-018A-4EBD-9796-B7C792CB3221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF22623-018A-4EBD-9796-B7C792CB3221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF22623-018A-4EBD-9796-B7C792CB3221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AE34C4F-E003-420D-AA3F-9FE3B3D92EF0}
+	EndGlobalSection
+EndGlobal
